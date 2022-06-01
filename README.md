@@ -1,6 +1,6 @@
-# A387-Jarkom-Labs
+# Submission Dicoding Jaringan Komputer Pemula
 
-Untuk menjalankan project ini, pastikan `npm` sudah terinstall pada komputer/laptop Anda.
+Proyek akhir Dicoding jaringan komputer untuk pemula: membangun web server
 
 ---
 
